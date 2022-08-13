@@ -1,4 +1,4 @@
 # tkinter-apps
 
 # usage
-python <filename>
+python filename.py
