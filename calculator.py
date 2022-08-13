@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from tkinter import *
 root=Tk()
 root.title("Simple Calculator")

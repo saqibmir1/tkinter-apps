@@ -1,3 +1,6 @@
+#!/usr/bin/python
+
+
 from tkinter import *
 from tkinter import filedialog
 from tkinter import font
