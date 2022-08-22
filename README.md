@@ -1,5 +1,9 @@
 # tkinter-apps
 
+# Requirements:
+- Python 3 or higher
+- Tkinter
+
 # To install:
 ./install.sh
 
