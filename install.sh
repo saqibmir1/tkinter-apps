@@ -1,4 +1,7 @@
 #!/bin/sh
+
+sudo vi
+sudo pacman -S tk --needed --noconfirm || sudo apt install python-tk -y || echo "Warning: Couldn't install tkinter. Manual installation required!"
 mkdir $HOME/.tkinter_saqib
 cp ./*.py $HOME/.tkinter_saqib
 
